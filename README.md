@@ -1,3 +1,16 @@
+## About
+
+This project is created for basic setup of angular project like
+1 - Services
+2 - Auth Guard
+3 - Interceptors
+4 - Utilities
+5 - Global spinner
+6 - Token incription & decription using `crypto-js`
+7 - Token Verification using `@auth0/angular-jwt`
+8 - Toaster `ngx-spinner`
+9 - Bootstrap
+
 # BasicSetupV12
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.3.
